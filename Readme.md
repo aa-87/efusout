@@ -1,4 +1,7 @@
 # Arabic learning coming-soon page www.efuzy.com/sout
+## ChatGPT prompt https://chatgpt.com/share/6aff9af2-a118-83ea-be4f-67384334b855
+
+
 
 This is an optional MIOTPL-powered landing page module. The working creative direction is intentionally unbranded: the Arabic word **صَوْت** (sawt, “voice/sound”) is used as a visual motif, not a finalized business name.
 
