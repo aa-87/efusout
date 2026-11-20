@@ -1,4 +1,4 @@
-# Arabic learning coming-soon page www.efusout.com
+# Arabic learning coming-soon page www.efusout.com [162.35.41.160:8181] && [162.35.41.160:8181/mioos]
 ## ChatGPT prompt https://chatgpt.com/share/6aff9af2-a118-83ea-be4f-67384334b855
 
 
