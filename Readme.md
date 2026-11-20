@@ -47,6 +47,21 @@ Before collecting real customer information in production:
 
 The handler performs basic email syntax checks; it does not verify mailbox ownership or send email. The form records early-access interest, not a confirmed subscription.
 
+
+#TODO
+```
+fix the static serving:
+
+SOUTSTATIC(DEV,CONF,REQ,CTX)
+ ; Isolated static mount; does not change the application's other mounts.
+ SET CONF("server","static","mount")="/public/sout"
+ SET CONF("server","static","root")="public"
+ DO STATIC^MIOSTATIC(.DEV,.CONF,.REQ,.CTX)
+ QUIT
+
+```
+
+
 ## Content and pronunciation notes
 
 English-friendly spellings are introductory approximations, not a claim that Arabic can be fully represented with English spelling. In particular, `ح` in `حبيبي` is a distinct Arabic consonant; learners should hear and practice it. Pronunciation can vary across dialects and contexts.
