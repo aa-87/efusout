@@ -1,4 +1,4 @@
-# Arabic learning coming-soon page
+# Arabic learning coming-soon page www.efuzy.com/sout
 
 This is an optional MIOTPL-powered landing page module. The working creative direction is intentionally unbranded: the Arabic word **صَوْت** (sawt, “voice/sound”) is used as a visual motif, not a finalized business name.
 
