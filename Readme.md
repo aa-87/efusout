@@ -1,4 +1,4 @@
-# Arabic learning coming-soon page www.efuzy.com/sout
+# Arabic learning coming-soon page www.efusout.com
 ## ChatGPT prompt https://chatgpt.com/share/6aff9af2-a118-83ea-be4f-67384334b855
 
 
