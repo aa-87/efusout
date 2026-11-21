@@ -1,4 +1,4 @@
-# Arabic learning coming-soon page https://efusout.com (waiting for cloudflare dns to propagate) [http://162.35.41.160:8181] && [http://162.35.41.160:8181/mioos]
+# Arabic learning coming-soon page https://efusout.com 
 ## ChatGPT prompt https://chatgpt.com/share/6aff9af2-a118-83ea-be4f-67384334b855
 
 
