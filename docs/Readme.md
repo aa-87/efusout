@@ -1,7 +1,7 @@
 # Arabic learning coming-soon page https://efusout.com 
 ## ChatGPT prompt https://chatgpt.com/share/6aff9af2-a118-83ea-be4f-67384334b855
 
-![](https://github.com/aa-87/efusout/blob/main/docs/efusout.png)
+![](https://github.com/aa-87/efusout/blob/main/docs/efusout.gif)
 
 
 This is an optional MIOTPL-powered landing page module. The working creative direction is intentionally unbranded: the Arabic word **صَوْت** (sawt, “voice/sound”) is used as a visual motif, not a finalized business name.
@@ -67,5 +67,8 @@ SOUTSTATIC(DEV,CONF,REQ,CTX)
 
 
 ## Content and pronunciation notes
+
+![](https://github.com/aa-87/efusout/blob/main/docs/efusout.png)
+
 
 English-friendly spellings are introductory approximations, not a claim that Arabic can be fully represented with English spelling. In particular, `ح` in `حبيبي` is a distinct Arabic consonant; learners should hear and practice it. Pronunciation can vary across dialects and contexts.
