@@ -1,7 +1,7 @@
 # Arabic learning coming-soon page https://efusout.com 
 ## ChatGPT prompt https://chatgpt.com/share/6aff9af2-a118-83ea-be4f-67384334b855
 
-
+![](https://github.com/aa-87/TK-POP/blob/main/docs/TK-POP.gif)
 
 This is an optional MIOTPL-powered landing page module. The working creative direction is intentionally unbranded: the Arabic word **صَوْت** (sawt, “voice/sound”) is used as a visual motif, not a finalized business name.
 
